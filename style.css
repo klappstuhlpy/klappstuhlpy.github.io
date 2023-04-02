@@ -40,7 +40,7 @@ body {
     width: 100%;
     background-color: #010718;
     border-left: 2px solid #4070F4;
-    animation: animate 4s steps(12) 2;
+    animation: animate 4s steps(12) infinite; // 2
 }
 
 @keyframes animate {
