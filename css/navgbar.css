@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Jetbrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+    font-size: 100px;
+}
+
+body {
+    background-color: #010718;
+}
+
+.topnav {
+    background-color: #010718;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    background-color: #010718;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 10%;
+}
+
+.topnav a:hover {
+    background-color: darkgray;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4070F4;
+    color: white;
+}

@@ -6,17 +6,12 @@
     font-size: 100px;
 }
 
-
-body {
+.container {
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #010718;
-    overflow: hidden;
-}
-
-.container {
     overflow: hidden;
 }
 
