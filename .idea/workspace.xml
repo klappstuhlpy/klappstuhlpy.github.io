@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9181681-47cf-4f33-99c1-ffefe7aa0a30" name="Changes" comment="moved">
+      <change afterPath="$PROJECT_DIR$/css/text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rhashira-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/typing.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/typing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordfighter.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/swordfighter.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Klappstuhl &lt;benedikt.schredl@gmx.de&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nrvkj27vHQiir99Lpy9GlDMsVe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bened/Documents/klappstuhlpy.github.io/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\images" />
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io" />
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\images" />
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\html" />
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\css" />
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\root" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9181681-47cf-4f33-99c1-ffefe7aa0a30" name="Changes" comment="" />
+      <created>1680435161029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680435161029</updated>
+      <workItem from="1680435162922" duration="222000" />
+      <workItem from="1680435415495" duration="536000" />
+      <workItem from="1680435988838" duration="8628000" />
+      <workItem from="1680464124160" duration="3000" />
+      <workItem from="1681466862694" duration="748000" />
+      <workItem from="1681467673369" duration="2336000" />
+      <workItem from="1686402083125" duration="239000" />
+    </task>
+    <task id="LOCAL-00001" summary="html test push">
+      <created>1680435228082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680435228082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Delete .idea directory">
+      <created>1680435435642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680435435642</updated>
+    </task>
+    <task id="LOCAL-00003" summary="animated text">
+      <created>1680441438366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680441438366</updated>
+    </task>
+    <task id="LOCAL-00004" summary="moved to root">
+      <created>1680441556574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680441556574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="moved to root">
+      <created>1680441779904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680441779904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="infinite text loop">
+      <created>1680442417664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680442417664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="del">
+      <created>1681467214873</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681467214873</updated>
+    </task>
+    <task id="LOCAL-00008" summary="del">
+      <created>1681467258346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681467258346</updated>
+    </task>
+    <task id="LOCAL-00009" summary="moved">
+      <created>1681467275223</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681467275223</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html test push" />
+    <MESSAGE value="Delete .idea directory" />
+    <MESSAGE value="animated text" />
+    <MESSAGE value="moved to root" />
+    <MESSAGE value="infinite text loop" />
+    <MESSAGE value="del" />
+    <MESSAGE value="moved" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved" />
+  </component>
+</project>
