@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9181681-47cf-4f33-99c1-ffefe7aa0a30" name="Changes" comment="moved">
-      <change afterPath="$PROJECT_DIR$/css/text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rhashira-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/text.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/text.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/typing.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/typing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordfighter.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/swordfighter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rhashira-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/swordfighter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +78,8 @@
       <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io" />
       <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\images" />
+      <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io" />
       <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\html" />
       <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\css" />
       <recent name="C:\Users\bened\Documents\klappstuhlpy.github.io\root" />
@@ -96,7 +99,7 @@
       <workItem from="1680464124160" duration="3000" />
       <workItem from="1681466862694" duration="748000" />
       <workItem from="1681467673369" duration="2336000" />
-      <workItem from="1686402083125" duration="239000" />
+      <workItem from="1686402083125" duration="2752000" />
     </task>
     <task id="LOCAL-00001" summary="html test push">
       <created>1680435228082</created>
